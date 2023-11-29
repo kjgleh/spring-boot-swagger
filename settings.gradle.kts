@@ -1,1 +1,1 @@
-rootProject.name = "spring-boot-swagger"
+rootProject.name = "spring-swagger"
